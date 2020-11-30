@@ -3,6 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0000-test/0000-test.iml" filepath="$PROJECT_DIR$/0000-test/0000-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1668-Maximum-Repeating-Substring/1668-Maximum-Repeating-Substring.iml" filepath="$PROJECT_DIR$/1668-Maximum-Repeating-Substring/1668-Maximum-Repeating-Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1669-Merge-In-Between-Linked-Lists/1669-Merge-In-Between-Linked-Lists.iml" filepath="$PROJECT_DIR$/1669-Merge-In-Between-Linked-Lists/1669-Merge-In-Between-Linked-Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1670-Design-Front-Middle-Back-Queue/1670-Design-Front-Middle-Back-Queue.iml" filepath="$PROJECT_DIR$/1670-Design-Front-Middle-Back-Queue/1670-Design-Front-Middle-Back-Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1671-Minimum-Number-of-Removals-to-Make-Mountain-Array/1671-Minimum-Number-of-Removals-to-Make-Mountain-Array.iml" filepath="$PROJECT_DIR$/1671-Minimum-Number-of-Removals-to-Make-Mountain-Array/1671-Minimum-Number-of-Removals-to-Make-Mountain-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1672-Richest-Customer-Wealth/1672-Richest-Customer-Wealth.iml" filepath="$PROJECT_DIR$/1672-Richest-Customer-Wealth/1672-Richest-Customer-Wealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1673-Find-the-Most-Competitive-Subsequence/1673-Find-the-Most-Competitive-Subsequence.iml" filepath="$PROJECT_DIR$/1673-Find-the-Most-Competitive-Subsequence/1673-Find-the-Most-Competitive-Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1674-Minimum-Moves-to-Make-Array-Complementary/1674-Minimum-Moves-to-Make-Array-Complementary.iml" filepath="$PROJECT_DIR$/1674-Minimum-Moves-to-Make-Array-Complementary/1674-Minimum-Moves-to-Make-Array-Complementary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1675-Minimize-Deviation-in-Array/1675-Minimize-Deviation-in-Array.iml" filepath="$PROJECT_DIR$/1675-Minimize-Deviation-in-Array/1675-Minimize-Deviation-in-Array.iml" />
     </modules>
   </component>
 </project>
