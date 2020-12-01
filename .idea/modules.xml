@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0000-test/0000-test.iml" filepath="$PROJECT_DIR$/0000-test/0000-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1311-Get-Watched-Videos-by-Your-Friends/1311-Get-Watched-Videos-by-Your-Friends.iml" filepath="$PROJECT_DIR$/1311-Get-Watched-Videos-by-Your-Friends/1311-Get-Watched-Videos-by-Your-Friends.iml" />
       <module fileurl="file://$PROJECT_DIR$/1668-Maximum-Repeating-Substring/1668-Maximum-Repeating-Substring.iml" filepath="$PROJECT_DIR$/1668-Maximum-Repeating-Substring/1668-Maximum-Repeating-Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/1669-Merge-In-Between-Linked-Lists/1669-Merge-In-Between-Linked-Lists.iml" filepath="$PROJECT_DIR$/1669-Merge-In-Between-Linked-Lists/1669-Merge-In-Between-Linked-Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/1670-Design-Front-Middle-Back-Queue/1670-Design-Front-Middle-Back-Queue.iml" filepath="$PROJECT_DIR$/1670-Design-Front-Middle-Back-Queue/1670-Design-Front-Middle-Back-Queue.iml" />
