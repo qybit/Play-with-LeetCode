@@ -5,7 +5,7 @@ import java.util.*;
  * @create 2020-12-05 15:39
  * @Since 1.0.0
  */
-public class Solution {
+public class Solution1 {
 
     public int leastInterval(char[] tasks, int n) {
         Map<Character, Integer> map = new HashMap<>();
