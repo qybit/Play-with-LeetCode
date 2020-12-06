@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0000-test/0000-test.iml" filepath="$PROJECT_DIR$/0000-test/0000-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/118-Pascal's-Triangle/118-Pascal's-Triangle.iml" filepath="$PROJECT_DIR$/118-Pascal's-Triangle/118-Pascal's-Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/1311-Get-Watched-Videos-by-Your-Friends/1311-Get-Watched-Videos-by-Your-Friends.iml" filepath="$PROJECT_DIR$/1311-Get-Watched-Videos-by-Your-Friends/1311-Get-Watched-Videos-by-Your-Friends.iml" />
       <module fileurl="file://$PROJECT_DIR$/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers.iml" filepath="$PROJECT_DIR$/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers.iml" />
       <module fileurl="file://$PROJECT_DIR$/1344-Angle-Between-Hands-of-a-Clock/1344-Angle-Between-Hands-of-a-Clock.iml" filepath="$PROJECT_DIR$/1344-Angle-Between-Hands-of-a-Clock/1344-Angle-Between-Hands-of-a-Clock.iml" />
@@ -20,7 +21,6 @@
       <module fileurl="file://$PROJECT_DIR$/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" filepath="$PROJECT_DIR$/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/470-Implement-Rand10()-Using-Rand7()/470-Implement-Rand10()-Using-Rand7().iml" filepath="$PROJECT_DIR$/470-Implement-Rand10()-Using-Rand7()/470-Implement-Rand10()-Using-Rand7().iml" />
       <module fileurl="file://$PROJECT_DIR$/539-Minimum-Time-Difference/539-Minimum-Time-Difference.iml" filepath="$PROJECT_DIR$/539-Minimum-Time-Difference/539-Minimum-Time-Difference.iml" />
-      <module fileurl="file://$PROJECT_DIR$/621-Task-Scheduler/621-Task-Scheduler.iml" filepath="$PROJECT_DIR$/621-Task-Scheduler/621-Task-Scheduler.iml" />
       <module fileurl="file://$PROJECT_DIR$/659-Split-Array-into-Consecutive-Subsequences/659-Split-Array-into-Consecutive-Subsequences.iml" filepath="$PROJECT_DIR$/659-Split-Array-into-Consecutive-Subsequences/659-Split-Array-into-Consecutive-Subsequences.iml" />
       <module fileurl="file://$PROJECT_DIR$/676-Implement-Magic-Dictionary/676-Implement-Magic-Dictionary.iml" filepath="$PROJECT_DIR$/676-Implement-Magic-Dictionary/676-Implement-Magic-Dictionary.iml" />
       <module fileurl="file://$PROJECT_DIR$/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" filepath="$PROJECT_DIR$/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" />
