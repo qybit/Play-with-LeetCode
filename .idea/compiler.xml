@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="118-Pascal's-Triangle" />
+        <module name="0118-Pascal's-Triangle" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="118-Pascal's-Triangle" target="8" />
-      <module name="621-Task-Scheduler" target="8" />
+      <module name="0118-Pascal's-Triangle" target="8" />
+      <module name="0621-Task-Scheduler" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

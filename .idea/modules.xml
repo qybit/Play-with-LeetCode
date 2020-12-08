@@ -3,8 +3,32 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0000-test/0000-test.iml" filepath="$PROJECT_DIR$/0000-test/0000-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" filepath="$PROJECT_DIR$/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0118-Pascal's-Triangle/0118-Pascal's-Triangle.iml" filepath="$PROJECT_DIR$/0118-Pascal's-Triangle/0118-Pascal's-Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0204-Count-Primes/0204-Count-Primes.iml" filepath="$PROJECT_DIR$/0204-Count-Primes/0204-Count-Primes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0321-Create-Maximum-Number/0321-Create-Maximum-Number.iml" filepath="$PROJECT_DIR$/0321-Create-Maximum-Number/0321-Create-Maximum-Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0470-Implement-Rand10()-Using-Rand7()/0470-Implement-Rand10()-Using-Rand7().iml" filepath="$PROJECT_DIR$/0470-Implement-Rand10()-Using-Rand7()/0470-Implement-Rand10()-Using-Rand7().iml" />
+      <module fileurl="file://$PROJECT_DIR$/0539-Minimum-Time-Difference/0539-Minimum-Time-Difference.iml" filepath="$PROJECT_DIR$/0539-Minimum-Time-Difference/0539-Minimum-Time-Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0621-Task-Scheduler/0621-Task-Scheduler.iml" filepath="$PROJECT_DIR$/0621-Task-Scheduler/0621-Task-Scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0659-Split-Array-into-Consecutive-Subsequences/0659-Split-Array-into-Consecutive-Subsequences.iml" filepath="$PROJECT_DIR$/0659-Split-Array-into-Consecutive-Subsequences/0659-Split-Array-into-Consecutive-Subsequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0676-Implement-Magic-Dictionary/0676-Implement-Magic-Dictionary.iml" filepath="$PROJECT_DIR$/0676-Implement-Magic-Dictionary/0676-Implement-Magic-Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0677-Map-Sum-Pairs/0677-Map-Sum-Pairs.iml" filepath="$PROJECT_DIR$/0677-Map-Sum-Pairs/0677-Map-Sum-Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0680-Valid-PalindromeII/0680-Valid-PalindromeII.iml" filepath="$PROJECT_DIR$/0680-Valid-PalindromeII/0680-Valid-PalindromeII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0692-Top-K-Frequent-Words/0692-Top-K-Frequent-Words.iml" filepath="$PROJECT_DIR$/0692-Top-K-Frequent-Words/0692-Top-K-Frequent-Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0720-Longest-Word-in-Dictionary/0720-Longest-Word-in-Dictionary.iml" filepath="$PROJECT_DIR$/0720-Longest-Word-in-Dictionary/0720-Longest-Word-in-Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0806-Number-of-Lines-To-Write-String/0806-Number-of-Lines-To-Write-String.iml" filepath="$PROJECT_DIR$/0806-Number-of-Lines-To-Write-String/0806-Number-of-Lines-To-Write-String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0842-Split-Array-into-Fibonacci-Sequence/0842-Split-Array-into-Fibonacci-Sequence.iml" filepath="$PROJECT_DIR$/0842-Split-Array-into-Fibonacci-Sequence/0842-Split-Array-into-Fibonacci-Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0861-Score-After-Flipping-Matrix/0861-Score-After-Flipping-Matrix.iml" filepath="$PROJECT_DIR$/0861-Score-After-Flipping-Matrix/0861-Score-After-Flipping-Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0867-Transpose-Matrix/0867-Transpose-Matrix.iml" filepath="$PROJECT_DIR$/0867-Transpose-Matrix/0867-Transpose-Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0886-Possible-Bipartition/0886-Possible-Bipartition.iml" filepath="$PROJECT_DIR$/0886-Possible-Bipartition/0886-Possible-Bipartition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0897-Increasing-Order-Search-Tree/0897-Increasing-Order-Search-Tree.iml" filepath="$PROJECT_DIR$/0897-Increasing-Order-Search-Tree/0897-Increasing-Order-Search-Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0950-Reveal-Cards-In-Increasing-Order/0950-Reveal-Cards-In-Increasing-Order.iml" filepath="$PROJECT_DIR$/0950-Reveal-Cards-In-Increasing-Order/0950-Reveal-Cards-In-Increasing-Order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0958-Check-Completeness-of-a-Binary-Tree/0958-Check-Completeness-of-a-Binary-Tree.iml" filepath="$PROJECT_DIR$/0958-Check-Completeness-of-a-Binary-Tree/0958-Check-Completeness-of-a-Binary-Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/0971-Flip-Binary-Tree-To-Match-Preorder-Traversal.iml" filepath="$PROJECT_DIR$/0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/0971-Flip-Binary-Tree-To-Match-Preorder-Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0991-Broken-Calculator/0991-Broken-Calculator.iml" filepath="$PROJECT_DIR$/0991-Broken-Calculator/0991-Broken-Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0993-Cousins-in-Binary-Tree/0993-Cousins-in-Binary-Tree.iml" filepath="$PROJECT_DIR$/0993-Cousins-in-Binary-Tree/0993-Cousins-in-Binary-Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0997-Find-the-Town-Judge/0997-Find-the-Town-Judge.iml" filepath="$PROJECT_DIR$/0997-Find-the-Town-Judge/0997-Find-the-Town-Judge.iml" />
       <module fileurl="file://$PROJECT_DIR$/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal.iml" filepath="$PROJECT_DIR$/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/118-Pascal's-Triangle/118-Pascal's-Triangle.iml" filepath="$PROJECT_DIR$/118-Pascal's-Triangle/118-Pascal's-Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/1311-Get-Watched-Videos-by-Your-Friends/1311-Get-Watched-Videos-by-Your-Friends.iml" filepath="$PROJECT_DIR$/1311-Get-Watched-Videos-by-Your-Friends/1311-Get-Watched-Videos-by-Your-Friends.iml" />
       <module fileurl="file://$PROJECT_DIR$/1315-Sum-of-Nodes-with-Even-Valued-Grandparent/1315-Sum-of-Nodes-with-Even-Valued-Grandparent.iml" filepath="$PROJECT_DIR$/1315-Sum-of-Nodes-with-Even-Valued-Grandparent/1315-Sum-of-Nodes-with-Even-Valued-Grandparent.iml" />
       <module fileurl="file://$PROJECT_DIR$/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers.iml" filepath="$PROJECT_DIR$/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers.iml" />
@@ -25,30 +49,6 @@
       <module fileurl="file://$PROJECT_DIR$/1679-Max-Number-of-K-Sum-Pairs/1679-Max-Number-of-K-Sum-Pairs.iml" filepath="$PROJECT_DIR$/1679-Max-Number-of-K-Sum-Pairs/1679-Max-Number-of-K-Sum-Pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/1680-Minimum-Incompatibility/1680-Minimum-Incompatibility.iml" filepath="$PROJECT_DIR$/1680-Minimum-Incompatibility/1680-Minimum-Incompatibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/1681-Concatenation-of-Consecutive-Binary-Numbers/1681-Concatenation-of-Consecutive-Binary-Numbers.iml" filepath="$PROJECT_DIR$/1681-Concatenation-of-Consecutive-Binary-Numbers/1681-Concatenation-of-Consecutive-Binary-Numbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/204-Count-Primes/204-Count-Primes.iml" filepath="$PROJECT_DIR$/204-Count-Primes/204-Count-Primes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/321-Create-Maximum-Number/321-Create-Maximum-Number.iml" filepath="$PROJECT_DIR$/321-Create-Maximum-Number/321-Create-Maximum-Number.iml" />
-      <module fileurl="file://$PROJECT_DIR$/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" filepath="$PROJECT_DIR$/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/470-Implement-Rand10()-Using-Rand7()/470-Implement-Rand10()-Using-Rand7().iml" filepath="$PROJECT_DIR$/470-Implement-Rand10()-Using-Rand7()/470-Implement-Rand10()-Using-Rand7().iml" />
-      <module fileurl="file://$PROJECT_DIR$/539-Minimum-Time-Difference/539-Minimum-Time-Difference.iml" filepath="$PROJECT_DIR$/539-Minimum-Time-Difference/539-Minimum-Time-Difference.iml" />
-      <module fileurl="file://$PROJECT_DIR$/621-Task-Scheduler/621-Task-Scheduler.iml" filepath="$PROJECT_DIR$/621-Task-Scheduler/621-Task-Scheduler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/659-Split-Array-into-Consecutive-Subsequences/659-Split-Array-into-Consecutive-Subsequences.iml" filepath="$PROJECT_DIR$/659-Split-Array-into-Consecutive-Subsequences/659-Split-Array-into-Consecutive-Subsequences.iml" />
-      <module fileurl="file://$PROJECT_DIR$/676-Implement-Magic-Dictionary/676-Implement-Magic-Dictionary.iml" filepath="$PROJECT_DIR$/676-Implement-Magic-Dictionary/676-Implement-Magic-Dictionary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" filepath="$PROJECT_DIR$/677-Map-Sum-Pairs/677-Map-Sum-Pairs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/680-Valid-PalindromeII/680-Valid-PalindromeII.iml" filepath="$PROJECT_DIR$/680-Valid-PalindromeII/680-Valid-PalindromeII.iml" />
-      <module fileurl="file://$PROJECT_DIR$/692-Top-K-Frequent-Words/692-Top-K-Frequent-Words.iml" filepath="$PROJECT_DIR$/692-Top-K-Frequent-Words/692-Top-K-Frequent-Words.iml" />
-      <module fileurl="file://$PROJECT_DIR$/720-Longest-Word-in-Dictionary/720-Longest-Word-in-Dictionary.iml" filepath="$PROJECT_DIR$/720-Longest-Word-in-Dictionary/720-Longest-Word-in-Dictionary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/806-Number-of-Lines-To-Write-String/806-Number-of-Lines-To-Write-String.iml" filepath="$PROJECT_DIR$/806-Number-of-Lines-To-Write-String/806-Number-of-Lines-To-Write-String.iml" />
-      <module fileurl="file://$PROJECT_DIR$/842-Split-Array-into-Fibonacci-Sequence/842-Split-Array-into-Fibonacci-Sequence.iml" filepath="$PROJECT_DIR$/842-Split-Array-into-Fibonacci-Sequence/842-Split-Array-into-Fibonacci-Sequence.iml" />
-      <module fileurl="file://$PROJECT_DIR$/861-Score-After-Flipping-Matrix/861-Score-After-Flipping-Matrix.iml" filepath="$PROJECT_DIR$/861-Score-After-Flipping-Matrix/861-Score-After-Flipping-Matrix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/867-Transpose-Matrix/867-Transpose-Matrix.iml" filepath="$PROJECT_DIR$/867-Transpose-Matrix/867-Transpose-Matrix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/886-Possible-Bipartition/886-Possible-Bipartition.iml" filepath="$PROJECT_DIR$/886-Possible-Bipartition/886-Possible-Bipartition.iml" />
-      <module fileurl="file://$PROJECT_DIR$/897-Increasing-Order-Search-Tree/897-Increasing-Order-Search-Tree.iml" filepath="$PROJECT_DIR$/897-Increasing-Order-Search-Tree/897-Increasing-Order-Search-Tree.iml" />
-      <module fileurl="file://$PROJECT_DIR$/950-Reveal-Cards-In-Increasing-Order/950-Reveal-Cards-In-Increasing-Order.iml" filepath="$PROJECT_DIR$/950-Reveal-Cards-In-Increasing-Order/950-Reveal-Cards-In-Increasing-Order.iml" />
-      <module fileurl="file://$PROJECT_DIR$/958-Check-Completeness-of-a-Binary-Tree/958-Check-Completeness-of-a-Binary-Tree.iml" filepath="$PROJECT_DIR$/958-Check-Completeness-of-a-Binary-Tree/958-Check-Completeness-of-a-Binary-Tree.iml" />
-      <module fileurl="file://$PROJECT_DIR$/971-Flip-Binary-Tree-To-Match-Preorder-Traversal/971-Flip-Binary-Tree-To-Match-Preorder-Traversal.iml" filepath="$PROJECT_DIR$/971-Flip-Binary-Tree-To-Match-Preorder-Traversal/971-Flip-Binary-Tree-To-Match-Preorder-Traversal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/991-Broken-Calculator/991-Broken-Calculator.iml" filepath="$PROJECT_DIR$/991-Broken-Calculator/991-Broken-Calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/993-Cousins-in-Binary-Tree/993-Cousins-in-Binary-Tree.iml" filepath="$PROJECT_DIR$/993-Cousins-in-Binary-Tree/993-Cousins-in-Binary-Tree.iml" />
-      <module fileurl="file://$PROJECT_DIR$/997-Find-the-Town-Judge/997-Find-the-Town-Judge.iml" filepath="$PROJECT_DIR$/997-Find-the-Town-Judge/997-Find-the-Town-Judge.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题08.02-Robot-in-a-Grid-LCCI/面试题08.02-Robot-in-a-Grid-LCCI.iml" filepath="$PROJECT_DIR$/面试题08.02-Robot-in-a-Grid-LCCI/面试题08.02-Robot-in-a-Grid-LCCI.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题17.12-BiNode-LCCI/面试题17.12-BiNode-LCCI.iml" filepath="$PROJECT_DIR$/面试题17.12-BiNode-LCCI/面试题17.12-BiNode-LCCI.iml" />
     </modules>
