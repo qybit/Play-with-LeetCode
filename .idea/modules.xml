@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0000-test/0000-test.iml" filepath="$PROJECT_DIR$/0000-test/0000-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" filepath="$PROJECT_DIR$/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0049-Group-Anagrams/0049-Group-Anagrams.iml" filepath="$PROJECT_DIR$/0049-Group-Anagrams/0049-Group-Anagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/0062-Unique-Paths/0062-Unique-Paths.iml" filepath="$PROJECT_DIR$/0062-Unique-Paths/0062-Unique-Paths.iml" />
       <module fileurl="file://$PROJECT_DIR$/0093-Restore-IP-Addresses/0093-Restore-IP-Addresses.iml" filepath="$PROJECT_DIR$/0093-Restore-IP-Addresses/0093-Restore-IP-Addresses.iml" />
       <module fileurl="file://$PROJECT_DIR$/0118-Pascal's-Triangle/0118-Pascal's-Triangle.iml" filepath="$PROJECT_DIR$/0118-Pascal's-Triangle/0118-Pascal's-Triangle.iml" />
@@ -65,6 +66,7 @@
       <module fileurl="file://$PROJECT_DIR$/1687-Stone-Game-VI/1687-Stone-Game-VI.iml" filepath="$PROJECT_DIR$/1687-Stone-Game-VI/1687-Stone-Game-VI.iml" />
       <module fileurl="file://$PROJECT_DIR$/1689-Count-of-Matches-in-Tournament/1689-Count-of-Matches-in-Tournament.iml" filepath="$PROJECT_DIR$/1689-Count-of-Matches-in-Tournament/1689-Count-of-Matches-in-Tournament.iml" />
       <module fileurl="file://$PROJECT_DIR$/1690-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers/1690-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.iml" filepath="$PROJECT_DIR$/1690-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers/1690-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 31. 栈的压入、弹出序列/剑指 Offer 31. 栈的压入、弹出序列.iml" filepath="$PROJECT_DIR$/剑指 Offer 31. 栈的压入、弹出序列/剑指 Offer 31. 栈的压入、弹出序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 57 - II. 和为s的连续正数序列/剑指 Offer 57 - II. 和为s的连续正数序列.iml" filepath="$PROJECT_DIR$/剑指 Offer 57 - II. 和为s的连续正数序列/剑指 Offer 57 - II. 和为s的连续正数序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题08.02-Robot-in-a-Grid-LCCI/面试题08.02-Robot-in-a-Grid-LCCI.iml" filepath="$PROJECT_DIR$/面试题08.02-Robot-in-a-Grid-LCCI/面试题08.02-Robot-in-a-Grid-LCCI.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题17.12-BiNode-LCCI/面试题17.12-BiNode-LCCI.iml" filepath="$PROJECT_DIR$/面试题17.12-BiNode-LCCI/面试题17.12-BiNode-LCCI.iml" />
