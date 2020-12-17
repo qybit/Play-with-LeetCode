@@ -2,8 +2,8 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../1689-Count-of-Matches-in-Tournament">
-      <sourceFolder url="file://$MODULE_DIR$/../1689-Count-of-Matches-in-Tournament/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../1691-Maximum-Height-by-Stacking-Cuboids">
+      <sourceFolder url="file://$MODULE_DIR$/../1691-Maximum-Height-by-Stacking-Cuboids/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
