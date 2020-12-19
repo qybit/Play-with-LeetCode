@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0000-test/0000-test.iml" filepath="$PROJECT_DIR$/0000-test/0000-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" filepath="$PROJECT_DIR$/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0048-Rotate-Image/0048-Rotate-Image.iml" filepath="$PROJECT_DIR$/0048-Rotate-Image/0048-Rotate-Image.iml" />
       <module fileurl="file://$PROJECT_DIR$/0049-Group-Anagrams/0049-Group-Anagrams.iml" filepath="$PROJECT_DIR$/0049-Group-Anagrams/0049-Group-Anagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/0062-Unique-Paths/0062-Unique-Paths.iml" filepath="$PROJECT_DIR$/0062-Unique-Paths/0062-Unique-Paths.iml" />
       <module fileurl="file://$PROJECT_DIR$/0093-Restore-IP-Addresses/0093-Restore-IP-Addresses.iml" filepath="$PROJECT_DIR$/0093-Restore-IP-Addresses/0093-Restore-IP-Addresses.iml" />
